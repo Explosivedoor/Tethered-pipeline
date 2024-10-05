@@ -9,7 +9,7 @@ This project aims to create an automated workflow for photographers to streamlin
 
 
 
-# What You Need to Do This Project
+## What You Need to Do This Project
  
 
 1. A camera with tethering capabilities
@@ -20,8 +20,8 @@ This project aims to create an automated workflow for photographers to streamlin
 6. A VPN, for this project I am using tailscale as it is very simple to use. This is used to 
 
 
-# Sever Setup for SMB
-# VPN Setup
-# Background Removal Process
+## Sever Setup for SMB
+## VPN Setup
+## Background Removal Process
 ## Python Scripts 
 
