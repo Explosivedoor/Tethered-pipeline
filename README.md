@@ -17,7 +17,7 @@ This project aims to create an automated workflow for photographers to streamlin
 3. A storage server that can use SMB (for this project the server is running Truenas Scale)
 4. (Not required but helps speed) A computer that has a GPU. This can also be your sever if it is powerful enough.
 5. Web server (this can also be the same server as your storage server).
-6. A VPN, for this project I am using tailscale as it is very simple to use. This is used to 
+6. A VPN, for this project I am using tailscale as it is very simple to use. This is used to have access to your storage server remotely. 
 
 
 ## Sever Setup for SMB
