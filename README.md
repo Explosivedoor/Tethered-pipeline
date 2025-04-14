@@ -30,6 +30,7 @@ VPN setup is pretty straight forward. You just need to install tailscale on your
 Next you will need to setup the remote computer to be an [exit node](https://tailscale.com/kb/1103/exit-nodes?q=exit) and to allow for [subnet routing](https://tailscale.com/kb/1019/subnets?q=subnets). 
 
 ## Background Removal Process
+### Connect to your VPN
 First run the python program on your remote computer. This will create the needed directories when you enter your root directory (eg. your mapped network drive or your shared drive). 
 Then, you will setup your tether program on your local computer to save the files to the mapped network drive in the Process folder.
 Now just take a photo and watch it work! 
